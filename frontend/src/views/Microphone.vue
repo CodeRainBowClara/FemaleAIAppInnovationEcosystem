@@ -5,6 +5,8 @@
             <select name="lang" @change="onChange($event)" class="custom-select">
                 <option value="de-DE" selected>German</option>
                 <option value="en-US">English</option>
+                <option value="ko-KR">Korean</option>
+                <option value="ro-RO">Rumänisch</option>
             </select>
         </div>
         <br>
